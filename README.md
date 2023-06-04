@@ -1,70 +1,73 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# TODOAPP
 
-## Available Scripts
+Built an TODOAPP for users for there daily field planner and list of the different task they want to do in a day.
+It is fully functional and has many key features.
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Roadmap
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Readme File Goes in this manner
 
-### `npm test`
+- Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Usage
 
-### `npm run build`
+- Glimpses
+ 
+- Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Demo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Contact
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Features
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- User Friendly Todoapp
+- Stores your list of task
+- Any number of task can be given
+- React.js Framework is used
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Tech Stack Used
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Skills:** Html, JavaScript, CSS, React.js
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Server:** Node
 
-## Learn More
+**Deployemennt:**  Github, Vercel
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Glimpses
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img width="960" alt="Screenshot 2023-06-04 171106" src="https://github.com/rajattiwari010/TodoApp/assets/115210236/b5e986ac-5d5a-4d3e-967a-edb783e60880">
 
-### Code Splitting
+<img width="960" alt="Screenshot 2023-06-04 171033" src="https://github.com/rajattiwari010/TodoApp/assets/115210236/c09f6a5f-a08e-4c29-9672-b4e30426d267">
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Demo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Try it here: https://todo-app-p4k8.vercel.app/
 
-### Making a Progressive Web App
+## Usage/Examples
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- Can be used to store your list of task
 
-### Advanced Configuration
+- A worker, student and everyone should use this
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Deleting feature is also there
 
-### Deployment
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+To contact:- 
+- email:- rajattiwari006@gamil.com
 
-### `npm run build` fails to minify
+- LinkedIn:- https://www.linkedin.com/in/rajat-tiwari-832704241/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- GitHub:- https://github.com/rajattiwari010/
+
+- Vercel:- https://vercel.com/dashboard
+
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-Made With ❤ By Rajat Tiwari=-=-=-=--==-=-=-=-=-=-=-
