@@ -52,13 +52,15 @@ body{
   cursor: pointer;
   box-shadow: 0px 5px 10px rgba(11, 10, 10, 0.3);
   transition: 0.3s;
-  hover {
-  background-color: green;
-}
 }
 .add-btn:active{
   box-shadow: none;
 }
+
+.add-btn:hover {
+  background-color: rgb(73, 237, 73);
+}
+
 .list-container{
   display: flex;
   align-items: center;
